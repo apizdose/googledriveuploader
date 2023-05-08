@@ -1,2 +1,3 @@
 # googledriveuploader
-googledrive uploader
+
+https://developers.google.com/drive/api/quickstart/python
